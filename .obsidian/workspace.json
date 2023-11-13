@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "70fef78c51e15e63",
+    "type": "split",
+    "children": [
+      {
+        "id": "43a974040057e384",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4faabba0455e9c27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "框架工具/hello.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf438e12f7347142",
+    "type": "split",
+    "children": [
+      {
+        "id": "395a65b710bce1f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1d3d42e02ef93a6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "25fa067c5a7f7388",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1c526a4750067762",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ee9c42047c64dcaa",
+    "type": "split",
+    "children": [
+      {
+        "id": "d37d68f97a94da97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3539fe5f83749db1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "框架工具/hello.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d99209a58ab3a819",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "框架工具/hello.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ab0cc25cce92c594",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c9eb3eba68d10980",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "框架工具/hello.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "4faabba0455e9c27",
+  "lastOpenFiles": [
+    "框架工具/hello.md",
+    "框架工具/hello.md",
+    "随笔摘录",
+    "框架工具"
+  ]
+}
